@@ -7,3 +7,9 @@ there is some text init
 this is to show the pull command
 
 
+def func2():
+    print("this is function 2")
+
+
+def func3():
+    print("this is function 3")
