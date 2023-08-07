@@ -4,4 +4,9 @@ This is names.txt _merged
 
 there is some text init
 
-this is to show the pull command 
+this is to show the pull command
+
+
+def func2():
+    print("this is function 2")
+
