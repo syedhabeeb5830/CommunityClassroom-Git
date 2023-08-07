@@ -7,6 +7,3 @@ there is some text init
 this is to show the pull command
 
 
-
-def func3():
-    print("this is funciton 3")
